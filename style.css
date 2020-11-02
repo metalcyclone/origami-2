@@ -1,0 +1,29 @@
+
+
+.dragon{
+background-color: rgb(55, 78, 108);
+display:flex;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+
+.foxes{
+   background-color: rgb(154, 77, 184);
+   display:flex;
+    justify-content: space-evenly; 
+    align-items: flex-start;
+}
+
+.rabbit{
+    background-color: deeppink;
+    display:flex;
+    justify-content:space-around;
+    align-items: flex-end;
+}
+
+.bird{
+   background-color: firebrick;
+   display:flex;
+    justify-content: space-between; 
+    align-items: flex-end;
+}
